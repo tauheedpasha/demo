@@ -1,0 +1,16 @@
+python 
+--array
+--substring
+--string
+--
+
+mvc
+
+java
+
+sql
+
+git
+--push 
+--commit
+--clone
